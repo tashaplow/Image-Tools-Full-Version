@@ -238,3 +238,6 @@ This repository serves as the official landing page for Image Tools. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Image Tools today!**
+
+---
+**Last updated:** 2026-09-11 17:37:54 UTC
